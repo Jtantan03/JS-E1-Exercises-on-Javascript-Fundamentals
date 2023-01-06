@@ -1,0 +1,33 @@
+.first-box {
+    width: 100px;
+  border: 15px solid green;
+  padding: 20px;
+  margin: 20px;
+}
+
+#countLabel{
+  display: block;
+  text-align: center;
+  font-size: 50px;
+}
+/* .profile{
+  vertical-align: middle;
+  width: 20%;
+  height: 20%;
+  border-radius: 50%;
+  border: 15px solid black;
+} */
+
+#clock {
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin: 11%;
+}
+#profile {
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
